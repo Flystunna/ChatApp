@@ -1,0 +1,5 @@
+c:\users\certifiedstunna\documents\visual studio 2012\Projects\ChatApp\ChatApp\bin\ChatApp.dll
+c:\users\certifiedstunna\documents\visual studio 2012\Projects\ChatApp\ChatApp\bin\ChatApp.pdb
+c:\users\certifiedstunna\documents\visual studio 2012\Projects\ChatApp\ChatApp\obj\Debug\ChatApp.csprojResolveAssemblyReference.cache
+c:\users\certifiedstunna\documents\visual studio 2012\Projects\ChatApp\ChatApp\obj\Debug\ChatApp.dll
+c:\users\certifiedstunna\documents\visual studio 2012\Projects\ChatApp\ChatApp\obj\Debug\ChatApp.pdb
